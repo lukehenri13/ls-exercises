@@ -40,7 +40,7 @@ for (let i = 0; i < arr.length; i++){
 }
 
 2)
-for (const index in arr) {
+for (const i in arr) {
     sum += arr[i];
 }
 
