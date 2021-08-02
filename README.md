@@ -1,4 +1,4 @@
-# ls-exercises20202
+# ls-exercises
 Scripting Language Discipline Exercises  
 
 
